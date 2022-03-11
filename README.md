@@ -30,3 +30,8 @@ public class BurnerWallet : MonoBehaviour
     }
 }
 ```
+
+## Note
+
+- https://burnerwallet.co/
+- https://hackernoon.com/how-to-generate-ethereum-addresses-technical-address-generation-explanation-25r3zqo
