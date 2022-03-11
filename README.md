@@ -1,8 +1,6 @@
 # Generate Burner Wallet with Web3.Unity
 
 ```c#
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using System.Numerics;
 
